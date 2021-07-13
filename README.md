@@ -1,2 +1,2 @@
 # UEGrabBag
-Unreal Engine project full of tutorial and other test assets
+Unreal Engine project full of tutorial and test assets
